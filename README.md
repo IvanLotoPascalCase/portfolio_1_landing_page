@@ -27,5 +27,5 @@ Estas son:
 ### *LOTO*
 *Cheers Lads!*  
 <p align="center">
-  <img style="width:300px;" align="left" src="https://i.pinimg.com/736x/8e/ba/95/8eba953281bd9f875905f8e04ab0c252.jpg" alt="Ups"/>
+  <img style="width:250px;" align="left" src="https://i.pinimg.com/736x/8e/ba/95/8eba953281bd9f875905f8e04ab0c252.jpg" alt="Ups"/>
 </p>
