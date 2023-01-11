@@ -24,6 +24,4 @@ Estas son:
 • React-Icons - v4.7.1  
  
 
-# *Overwatch 2 - Landing Page*
-
-
+### *LOTO*
