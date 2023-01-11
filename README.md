@@ -1,6 +1,8 @@
 # portfolio_1_landing_page
 
-El primero de mis repositorios para subir mis proyectos que iré realizando durante 2023 para poder demostrar mis habilidades como programador. 
-Sera un proyecto basico de Landing Page sobre un tema libre. 
+## Landing Page, tema libre: Overwatch 2.
+
+Overwatch 2 - Landing Page sirve como repositorio/portafolio para poder demostrar mis capacidades como Desarrollador Web.
+
 - Desarrollado en JS mediante ViteJS.
 - Estilizado con CSS y Tailwind CSS.
