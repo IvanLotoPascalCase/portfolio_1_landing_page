@@ -9,7 +9,8 @@
 ## Descripción del Repositorio: 
 La pagina es basicamente una forma de mostrar información acerca del juego, desde como funciona el nucleo base de este, hasta sus heroes y de que tratan cada uno.
 El diseño como se podrá pensar, tiene varias secciones contenidas dentro de un mismo archivo index del cual se renderiza todo el contenido de esta.   
-Estas son:
+
+## Secciones:  
 • Header - NavBar/Barra de Navegación  
 • Hero - Contenido Inicial  
 • General Info. - Información o Descripción General del Juego y de que trata.  
