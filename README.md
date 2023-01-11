@@ -2,7 +2,10 @@
 
 ## Landing Page, tema libre: Overwatch 2.
 
-Overwatch 2 - Landing Page sirve como repositorio/portafolio para poder demostrar mis capacidades como Desarrollador Web.
+> Hola, soy Iván Olivares, desarrollador web, egresado de Duoc UC el año 2022.
+> Acontinuación presento uno de los proyectos en los que trabajo principalmente para que se puedan reconocer mis habilidades en el desarrollo web.
+
+#*Overwatch 2 - Landing Page*
 
 - Desarrollado en JS mediante ViteJS.
 - Estilizado con CSS y Tailwind CSS.
