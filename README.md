@@ -25,5 +25,7 @@ Estas son:
  
 
 ### *LOTO*
-*Cheers Lads!
-![CheersLad!](https://i.pinimg.com/736x/8e/ba/95/8eba953281bd9f875905f8e04ab0c252.jpg)
+*Cheers Lads!*  
+<p align="center">
+  <img src="[https://i.pinimg.com/736x/8e/ba/95/8eba953281bd9f875905f8e04ab0c252.jpg]" />
+</p>
