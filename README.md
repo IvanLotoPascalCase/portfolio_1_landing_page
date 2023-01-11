@@ -16,7 +16,7 @@ El diseño como se podrá pensar, tiene varias secciones contenidas dentro de un
 • General Info. - Información o Descripción General del Juego y de que trata.  
 • Heroes - Slider con Información de los Personajes.  
 • Noticias - Cartas con info que presentan la actualidad/parches/novedades del contexto.  
-• Por ultimo - Una sección de porque Doomfist es el mejor champ del juego *¡NO DISCUSSION!*    JK 
+• Por ultimo - Una sección de porque Doomfist es el mejor champ del juego *¡NO DISCUSSION!* JK  
 • Footer - Pie de Pagina con información general de contacto, redes sociales, etc.  
 
 ## Tecnologías usadas y dependencias. 
