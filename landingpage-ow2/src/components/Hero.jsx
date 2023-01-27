@@ -5,7 +5,7 @@ import tracerUp from '../assets/main-tracer.png'
 const Hero = () => {
   return (
     // SECCIÓN HERO
-    <section className='relative h-[70vh] grid grid-cols-1 md:grid-cols-8'>
+    <section className='relative h-[70vh] grid grid-cols-1 md:grid-cols-8 bg-slate-100'>
       
       <div className='md:col-span-4 flex items-center justify-center ml-8'>
         
@@ -19,8 +19,8 @@ const Hero = () => {
       <div className='md:col-span-4 flex items-center justify-center'>
         <img className='w-[80%]' src={tracerUp} alt="cheersLads" />
       </div>
-      
-      <div className="z-[-1] absolute inset-0 bg-secondaryalt w-100 xl:h-[63%] xl:mt-[7%]"></div>
+     
+      {/*  <div className="z-[-1] absolute inset-0 bg-secondaryalt w-100 xl:h-[63%] xl:mt-[7%] shadow-xl"></div> */}
 
     </section>
   )

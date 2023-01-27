@@ -3,6 +3,7 @@ import reactLogo from './assets/react.svg'
 import Header from './components/Header.jsx'
 import Hero from './components/Hero.jsx'
 import MainDivisor from './components/MainDivisor.jsx'
+import Heroes from './components/Heroes.jsx'
 
 function App() {
 
@@ -11,6 +12,7 @@ function App() {
       <Header />
       <Hero />
       <MainDivisor />
+      <Heroes />
     </div>
   )
 }
